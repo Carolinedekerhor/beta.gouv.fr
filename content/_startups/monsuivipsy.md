@@ -53,3 +53,5 @@ Nous estimons que cette première phase d’expérimentation sera un succès si 
 
 * 200 utilisateurs engagés et
 * 50 praticiens engagés
+
+  Ce projet est mené en partenariat avec l'ARS (Agence Régionale de Santé) Ile de France et l'Etablissement Public de Santé Barthélémy Durand.
