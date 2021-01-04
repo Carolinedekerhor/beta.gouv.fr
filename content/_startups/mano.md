@@ -6,8 +6,8 @@ owner: MANO
 sponsors:
   - name: Agence régionale de santé d'Île de France
 incubator: sgmas
-contact: caroline.de_kerhor@beta.gouv.fr
 repository: https://github.com/SocialGouv/mano/
+contact: caroline.de_kerhor@beta.gouv.fr
 events: []
 phases:
   - name: investigation
@@ -44,8 +44,6 @@ visibilité sur les actions du jour et à venir, afin de pouvoir prioriser les a
 
 \- Un accès à une liste de structures spécifiques sur lesquelles orienter la personne en rue le plus simplement possible
 
- 
-
 L’interface Web permet à chaque maraude :
 
 \- de Paramétrer “son MANO” pour l’adapter au mieux à son activité propre
@@ -53,8 +51,6 @@ L’interface Web permet à chaque maraude :
 \- de créer des compte rendu de fin de maraude
 
 \- de consolider automatiquement des indicateurs pour les financeurs
-
- 
 
 # **La mesure d’impact et les objectifs**
 
@@ -78,8 +74,6 @@ La stratégie de cette première phase est par la suite de déployer MANO dans 3
 
 Le service MANO manipulant des données de santé, une analyse d’impact (EIVP) a été réalisée par les services compétents de la Fabrique du Numérique du ministère des solidarités et de la santé et un hébergement HDS adéquat a été mis en oeuvre (dans le centre Microsoft Azure de Paris).
 
-
-
 ## Principaux évènements :
 
 \- 1er Août : lancement de la SE
@@ -97,3 +91,5 @@ Le service MANO manipulant des données de santé, une analyse d’impact (EIVP)
 \- A 1er Décembre : 284 usagers suivis
 
 \- Fin décembre : première version de l’interface web
+
+Ce projet est mené en partenariat avec l'ARS (Agence Régionale de Santé) Ile de France et le CARRUD EGO de l'association Aurore.
