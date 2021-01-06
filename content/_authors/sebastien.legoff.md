@@ -7,9 +7,11 @@ missions:
     end: 2021-12-31
     status: independent
 startups:
-- ozensemble
-- engagement-civique
+  - ozensemble
+  - engagement-civique
+  - monsuivipsy
+  - mano
 previously:
-- pop
-- eac   
+  - pop
+  - eac
 ---
